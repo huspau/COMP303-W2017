@@ -21,7 +21,6 @@ public final class Client
 			for( Suit suit : Suit.values() )
 			{
 				System.out.println(new Card(rank,suit));
-				System.out.println("blablabla");
 			}
 		}
 	}
